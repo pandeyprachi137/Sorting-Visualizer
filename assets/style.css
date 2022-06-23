@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #808D8E;
+    background-color: fbb1bd;
     font-family: "Catamaran", sans-serif;
     color: #ccc;
 }
@@ -45,7 +45,7 @@ body {
     width: 250px;
     height: 50px;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: 283d3b;
     border: 1px solid #ccc;
     border-radius: 5px;
 }
